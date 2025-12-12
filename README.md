@@ -9,3 +9,8 @@ The page shows two loaders side-by-side:
   Dot Loader — nine animated circles that scale up and fade
   Line Loader — five vertical bars that stretch and shrink
 This is useful for UI loading screens, splash screens, waiting pages, etc.
+
+Project Structure
+animation-loader/
+│── Animation.html    
+└── Animation.css
