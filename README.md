@@ -10,7 +10,14 @@ The page shows two loaders side-by-side:
   Line Loader — five vertical bars that stretch and shrink
 This is useful for UI loading screens, splash screens, waiting pages, etc.
 
-Project Structure
+Project Structure:
 animation-loader/
 │── Animation.html    
 └── Animation.css
+
+ Features:
+  Dot Loader:
+   9 circular dots
+   Each dot has a different animation duration
+   Scaling & opacity transitions
+   Randomized speeds for lively effect
