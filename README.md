@@ -1,5 +1,4 @@
-This project showcases two beautiful CSS-only loading animations — a bouncing dot loader and a stretching line loader.
-The animations are created using pure HTML & CSS, without any JavaScript.
+This project showcases two beautiful CSS-only loading animations — a bouncing dot loader and a stretching line loader.The animations are created using pure HTML & CSS, without any JavaScript.
 
 Overview:
 The project contains:
@@ -16,7 +15,6 @@ animation-loader/
 └── Animation.css
 
  Features:
- 
   Dot Loader:
    9 circular dots
    Each dot has a different animation duration
