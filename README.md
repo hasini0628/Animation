@@ -16,8 +16,14 @@ animation-loader/
 └── Animation.css
 
  Features:
+ 
   Dot Loader:
    9 circular dots
    Each dot has a different animation duration
    Scaling & opacity transitions
    Randomized speeds for lively effect
+  Line Loader:
+   5 vertical bars
+   Height scaling animation
+   Each bar animates at different speeds
+   Minimal and modern design
