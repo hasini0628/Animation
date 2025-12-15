@@ -25,3 +25,6 @@ animation-loader/
    Height scaling animation
    Each bar animates at different speeds
    Minimal and modern design
+ Fully Responsive:
+   Centered both vertically and horizontally
+   Works on all screen sizes
