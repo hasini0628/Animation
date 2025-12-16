@@ -28,3 +28,5 @@ animation-loader/
  Fully Responsive:
    Centered both vertically and horizontally
    Works on all screen sizes
+ Pure CSS Animations
+   No JavaScript required.
