@@ -30,3 +30,7 @@ animation-loader/
    Works on all screen sizes
  Pure CSS Animations
    No JavaScript required.
+
+How to Run:
+  Download or clone the project
+  Keep Animation.html and Animation.css in the same folder
