@@ -34,3 +34,7 @@ animation-loader/
 How to Run:
   Download or clone the project
   Keep Animation.html and Animation.css in the same folder
+  Make sure your HTML has:
+    <link rel="stylesheet" href="Animation.css">
+  Open Animation.html in any browser
+  Enjoy the animations!
