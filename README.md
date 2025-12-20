@@ -38,3 +38,7 @@ How to Run:
     <link rel="stylesheet" href="Animation.css">
   Open Animation.html in any browser
   Enjoy the animations!
+
+Technologies Used:
+  HTML5
+  CSS3 
