@@ -42,3 +42,10 @@ How to Run:
 Technologies Used:
   HTML5
   CSS3 
+  
+Clone This Project:
+    git clone https://github.com/hasini0628/Animation.git
+    cd Animation
+
+   Then simply open:
+     Animation.html
