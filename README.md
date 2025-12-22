@@ -49,5 +49,6 @@ Clone This Project:
 
    Then simply open:
      Animation.html
- License
+     
+ License:
    This project is open-source and available for educational & UI/UX use.
