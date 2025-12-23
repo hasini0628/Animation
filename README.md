@@ -14,7 +14,7 @@ animation-loader/
 │── Animation.html    
 └── Animation.css
 
- Features:
+Features:
   Dot Loader:
    9 circular dots
    Each dot has a different animation duration
@@ -46,7 +46,6 @@ Technologies Used:
 Clone This Project:
     git clone https://github.com/hasini0628/Animation.git
     cd Animation
-
    Then simply open:
      Animation.html
      
