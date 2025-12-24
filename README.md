@@ -48,6 +48,13 @@ Clone This Project:
     cd Animation
    Then simply open:
      Animation.html
+
+Contribution:
+Feel free to enhance:
+Add more loaders
+Add color themes
+Add animation controls
+Pull requests are welcome!
      
  License:
    This project is open-source and available for educational & UI/UX use.
