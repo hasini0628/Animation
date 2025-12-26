@@ -44,10 +44,10 @@ Technologies Used:
   CSS3 
   
 Clone This Project:
-    git clone https://github.com/hasini0628/Animation.git
-    cd Animation
-   Then simply open:
-     Animation.html
+  git clone https://github.com/hasini0628/Animation.git
+  cd Animation
+Then simply open:
+  Animation.html
      
  License:
    This project is open-source and available for educational & UI/UX use.
